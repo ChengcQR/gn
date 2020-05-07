@@ -18,7 +18,7 @@ You can download the latest version of GN binary for
 
 Alternatively, you can build GN from source:
 
-    git clone https://gn.googlesource.com/gn
+    git clone https://github.com/ChengcQR/gn.git
     cd gn
     python build/gen.py
     ninja -C out
